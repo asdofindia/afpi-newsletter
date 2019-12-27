@@ -2,15 +2,18 @@ import React from "react"
 import PropTypes from "prop-types"
 
 // Components
+import Layout from "../components/layout"
 import { Link, graphql } from "gatsby"
 
 const Issues = ({ pageContext, data }) => {
   const { nodes } = data.allSitePage
   const { issueId } = pageContext
   return (
+    <Layout>
     <div>
+      <h1>Issue Code: {issueId}</h1>
+      <h2>Contents</h2>
       <ul>
-        issueId: {issueId}
         {nodes.map(({ context, path }) => {
           const { isIssueIndex } = context
           if (isIssueIndex) {
@@ -30,6 +33,7 @@ const Issues = ({ pageContext, data }) => {
             */}
       <Link to="/issues">All issues</Link>
     </div>
+    </Layout>
   )
 }
 
