@@ -51,7 +51,7 @@ module.exports = {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
           'pages': require.resolve('./src/components/layout.js'),
-          'issues': require.resolve('./src/components/layout.js'),
+          'issues': require.resolve('./src/components/article.js'),
         },
         gatsbyRemarkPlugins,
         plugins: gatsbyRemarkPlugins
