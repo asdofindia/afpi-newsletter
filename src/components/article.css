@@ -620,3 +620,9 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+@media (min-width: 481px) {
+  main {
+    column-count: 2;
+  }
+}
