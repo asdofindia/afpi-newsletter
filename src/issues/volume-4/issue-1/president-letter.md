@@ -1,9 +1,11 @@
 ---
 title: "President's letter"
+authors:
+  -
+    name: Dr Swapna Bhaskar
+    affiliation: Karnataka Chapter President
 order: 01
 ---
-
-# From The President's Desk
 
 Hello  Readers!
 
@@ -14,6 +16,4 @@ This edition is extremely special in that it’s conceived and compiled by the y
 We sincerely request all of you to contribute your valuable thoughts in the form of case reports, original research, medical updates etc.
 
 Once again wishing you all a great year ahead…
-
-Dr Swapna Bhaskar
 

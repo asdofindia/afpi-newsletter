@@ -4,6 +4,7 @@ import PropTypes from "prop-types"
 // Components
 import Layout from "../components/layout"
 import { Link, graphql } from "gatsby"
+import { getIssueName } from "../utils/name-tools"
 
 const Issues = ({ pageContext, data }) => {
   const { nodes } = data.allSitePage
@@ -11,7 +12,7 @@ const Issues = ({ pageContext, data }) => {
   return (
     <Layout>
     <div>
-      <h1>Issue Code: {issueId}</h1>
+      <h1>Issue: {getIssueName(issueId)}</h1>
       <h2>Contents</h2>
       <ul>
         {nodes.map(({ context, path }) => {

@@ -3,3 +3,16 @@
     column-count: 2;
   }
 }
+
+@media (not print) {
+  .onlyPrint {
+    display: none;
+  }
+}
+
+@media print {
+  .noPrint {
+    display: none;
+  }
+}
+

@@ -9,10 +9,23 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Link, useStaticQuery, graphql } from "gatsby"
 
+import { getIssueName } from "../utils/name-tools"
 import Header from "./header"
+import Footer from "./footer"
 import "./article.css"
 
-const Layout = ({ pageContext, children}) => {
+const Author = ({name, affiliation}) => (
+    <p>
+      <strong>{name}</strong> ({affiliation})
+    </p>
+)
+
+const Authors = ({authors}) => {
+  if (!Array.isArray(authors)) return ""
+  return authors.map(author => <Author name={author.name} affiliation={author.affiliation} />)
+}
+
+const Layout = ({ pageContext, children, path}) => {
   const data = useStaticQuery(graphql`
     query ArticleLayoutQuery {
       site {
@@ -22,6 +35,10 @@ const Layout = ({ pageContext, children}) => {
       }
     }
   `)
+
+  const pdfLink = path.replace(/\/$/, '.pdf')
+  const issueName = getIssueName(pageContext.issueId)
+  const pdfFileName = `${pageContext.frontmatter.title} - ${data.site.siteMetadata.title} (${issueName})`
 
   return (
     <>
@@ -35,12 +52,16 @@ const Layout = ({ pageContext, children}) => {
           paddingTop: 0,
         }}
       >
+        Issue: <Link to={`/${pageContext.issueId}/`}>{issueName}</Link>
+        <p className="noPrint">
+          Article Download Options: <a href={`${pdfLink}`} download={pdfFileName}>PDF</a>
+        </p>
+        <h2>{pageContext.frontmatter.title}</h2>
+        <Authors authors={pageContext.frontmatter.authors} />
+        <hr />
         <main>{children}</main>
-        <p><Link to={`/${pageContext.issueId}/`}>Issue Index</Link></p>
-        <footer>
-          © {new Date().getFullYear()}, Published by <a href="https://afpikarnataka.in">AFPI Karnataka</a>
-        </footer>
       </div>
+      <Footer />
     </>
   )
 }

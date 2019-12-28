@@ -4,18 +4,12 @@ import path from "path"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { getIssueName } from "../utils/name-tools"
 
 const getIssueIdFromPath = (absolutePath) => {
   const splitPath = absolutePath.split(path.sep)
   const lastElements = splitPath.slice(splitPath.length - 2, splitPath.length)
   return lastElements.join(path.sep)
-}
-
-const convertToWord = (code) => code.replace(/^./, code[0].toUpperCase()).replace('-', ' ')
-
-const getNiceName = (issueId) => {
-  let [volume, issue] = issueId.split(path.sep).map(convertToWord)
-  return `${volume}, ${issue}`
 }
 
 const IssuesPage = ({data}) => {
@@ -25,7 +19,7 @@ const IssuesPage = ({data}) => {
     <Layout>
       <SEO title="Home" />
       <ul>
-        {issues.map((issue) => <li><Link to={`/${issue}/`}>{getNiceName(issue)}</Link></li>)}
+        {issues.map((issue) => <li><Link to={`/${issue}/`}>{getIssueName(issue)}</Link></li>)}
       </ul>
       <p>Older issues will soon be uploaded here</p>
     </Layout>
