@@ -5,6 +5,13 @@ const PDFMerge = require('pdf-merge');
 
 let browser;
 
+let rootUrl;
+if (process.argv[3]) {
+  rootUrl = process.argv[3];
+} else {
+  rootUrl = `http://localhost:8000`
+}
+
 const margin = {
   top: 20,
   bottom: 20,
@@ -22,7 +29,7 @@ const createStaticDir = (issueId) => {
 const printLink = async (link, path, footerTemplate) => {
   const page = await browser.newPage();
   await page.goto(link, {waitUntil: 'networkidle2'});
-  await page.$$eval('a', links => links.map(link => link.href = link.href.replace('http://localhost:8000', 'https://newsletter.afpikarnataka.in')))
+  await page.$$eval('a', links => links.map(link => link.href = link.href.replace(window.location.hostname, 'https://newsletter.afpikarnataka.in')))
   const displayHeaderFooter = false
   await page.pdf({path, margin, displayHeaderFooter, footerTemplate});
   console.log(`Printed ${path}`)
@@ -41,7 +48,7 @@ const getPrintPath = (link) => {
   browser = await puppeteer.launch();
   const page = await browser.newPage();
   const issueId = process.argv[2];
-  const indexUrl = `http://localhost:8000/${issueId}/`;
+  const indexUrl = `${rootUrl}/${issueId}/`;
   await page.goto(indexUrl, {waitUntil: 'networkidle2'});
   const links = await page.$$eval('li a', links => links.map(link => link.href))
   createStaticDir(issueId)

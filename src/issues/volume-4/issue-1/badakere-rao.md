@@ -7,7 +7,7 @@ authors:
     affiliation: Neurosurgeon and scholar
 ---
 
-*This article was originally published in [The National Medical Journal of India](http://www.nmji.in) under a Creative Commons BY-NC-SA license and is being republished here. The original can be accessed online [here](http://www.nmji.in/article.asp?issn=0970-258X;year=2019;volume=32;issue=1;spage=49;epage=51;aulast=Pandya).*
+*This article is a slightly modified part of the column originally published in [The National Medical Journal of India](http://www.nmji.in) with the title "Letter from Mumbai" under a Creative Commons BY-NC-SA license and is being republished here. The original can be accessed online [here](http://www.nmji.in/article.asp?issn=0970-258X;year=2019;volume=32;issue=1;spage=49;epage=51;aulast=Pandya).*
 
 Dr Rao of Bengaluru is a seer not adequately recognized outside his own state.
 
@@ -15,7 +15,7 @@ He has chosen to be a family physician and has served his patients and their fam
 
 Dr Rao is blessed with deep moral insight. Since this is coupled with humility of high order, many of us have been deprived of the opportunity to learn from him.
 
-His familiarity with the writings of Hippocrates, Osler, Shelley, Matthew Arnold, Ralph Waldo Emerson, the Dalai Lama, Swami Nithyananda, Gerald Durrell, Plum Wodehouse and the bird- lover T.N.A. Perumal inspire respect.
+His familiarity with the writings of Hippocrates, Osler, Shelley, Matthew Arnold, Ralph Waldo Emerson, the Dalai Lama, Gerald Durrell, Plum Wodehouse and the bird- lover T.N.A. Perumal inspire respect.
 
 He informed me that Dr M.K. Mani is one of his mentors. In turn, I have learnt from Dr Jaya Bajaj, scientific chairperson for the 4th National Conference on Family Medicine and Primary Care: ‘Dr B.C. Rao has been our mentor.' And so, the virtuous cycle continues to cast its beneficial spell.
 
