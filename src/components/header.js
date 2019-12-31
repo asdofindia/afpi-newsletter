@@ -27,6 +27,9 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <img id="main-logo" src="../images/afpi-logo.png" style={{
+            float:'right'
+          }}/>
     </div>
   </header>
 )
