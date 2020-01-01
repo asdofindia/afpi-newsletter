@@ -42,7 +42,8 @@ const AboutPage = () => {
     "email": "roshnijhan@hotmail.com"
   },
   {
-    "name": "Dr Sowmya B. Ramesh"
+    "name": "Dr Sowmya B. Ramesh",
+    "email": "drsowvivek@gmail.com"
   },
   {
     "name": "Dr Sulaiman Sharieff",
