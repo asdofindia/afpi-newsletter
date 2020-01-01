@@ -57,6 +57,15 @@ module.exports = {
         plugins: gatsbyRemarkPlugins
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-155198608-1`,
+        head: false,
+        anonymize: true,
+        respectDNT: true
+      }
+    },
     `gatsby-plugin-netlify`,
     `gatsby-plugin-nprogress`,
     {
