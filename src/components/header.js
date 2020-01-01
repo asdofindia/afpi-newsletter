@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      <img id="main-logo" src="/images/afpi-logo.png" style={{
+      <img alt="Logo of AFPI showing 9 circles with the initialism AFPI expanded as Academy of Family Physicians of India" id="main-logo" src="/images/afpi-logo.png" style={{
         marginBottom: `0`
       }}/>
     </div>

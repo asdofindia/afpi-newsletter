@@ -16,7 +16,7 @@ const Footer = () => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      © {new Date().getFullYear()}, Published by <a href="https://afpikarnataka.in">AFPI Karnataka</a>
+      © {new Date().getFullYear()}, Published by <Link to="/about">AFPI Karnataka</Link>
     </div>
   </footer>
 )
