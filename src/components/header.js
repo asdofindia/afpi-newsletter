@@ -26,20 +26,20 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
+        <img id="main-logo" src="/images/afpi-logo.png" style={{
+          float:'right'
+        }}/>
       </h1>
-      <img id="main-logo" src="/images/afpi-logo.png" style={{
-            float:'right'
-          }}/>
     </div>
   </header>
 )
 
 Header.propTypes = {
-  siteTitle: PropTypes.string,
+    siteTitle: PropTypes.string,
 }
 
 Header.defaultProps = {
-  siteTitle: ``,
+    siteTitle: ``,
 }
 
 export default Header
