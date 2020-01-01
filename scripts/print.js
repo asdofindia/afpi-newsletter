@@ -12,6 +12,8 @@ if (process.argv[3]) {
   rootUrl = `http://localhost:8000`
 }
 
+const printParallel = rootUrl.endsWith('8080')
+
 const margin = {
   top: 20,
   bottom: 20,
@@ -29,7 +31,7 @@ const createStaticDir = (issueId) => {
 const printLink = async (link, path, footerTemplate) => {
   const page = await browser.newPage();
   await page.goto(link, {waitUntil: 'networkidle2'});
-  await page.$$eval('a', links => links.map(link => link.href = link.href.replace(window.location.hostname, 'https://newsletter.afpikarnataka.in')))
+  await page.$$eval('a', links => links.map(link => link.href = link.href.replace(window.location.host, 'newsletter.afpikarnataka.in')))
   const displayHeaderFooter = false
   await page.pdf({path, margin, displayHeaderFooter, footerTemplate});
   console.log(`Printed ${path}`)
@@ -44,6 +46,17 @@ const getPrintPath = (link) => {
   return path.join(issueAbsoluteDir, `${fileName}.pdf`)
 }
 
+const parallelPrint = (links, footerTemplate) => {
+  const printJobs = links.map(link => printLink(link, getPrintPath(link), footerTemplate))
+  return Promise.all(printJobs)
+}
+
+const seriesPrint = async (links, footerTemplate) => {
+  for (const link of links) {
+    await printLink(link, getPrintPath(link), footerTemplate)
+  }
+}
+
 (async () => {
   browser = await puppeteer.launch();
   const page = await browser.newPage();
@@ -53,9 +66,12 @@ const getPrintPath = (link) => {
   const links = await page.$$eval('li a', links => links.map(link => link.href))
   createStaticDir(issueId)
   const footerTemplate = `<h2>AFPI Karnataka Newsletter ${issueId}</h2>`
-  const printJobs = links.map(link => printLink(link, getPrintPath(link), footerTemplate))
+  if (printParallel) {
+    await parallelPrint(links, footerTemplate)
+  } else {
+    await seriesPrint(links, footerTemplate)
+  }
   const fileNames = links.map(getPrintPath)
-  await Promise.all(printJobs)
   const issuePDFName = `./output/${issueId.replace('/','-')}.pdf`
   fs.mkdirSync('./output', {recursive: true})
   await PDFMerge(fileNames, {output: issuePDFName})
