@@ -9,7 +9,7 @@ authors:
 
 *Mrs. Pudina*, aged around 30 yrs, is a working professional, from a middle class family. She is moderately obese, hypothyroid on treatment, with occasional episodes of allergic bronchitis, on inhalers sos. She has a child studying in primary school, while husband is an Entrepreneur. One fine day she develops moderate grade fever, headache, body pain, Throat irritation, and left side lower abdomen pain. She consults *Dr. Gabbar Singh*, a renowned Family Physician in her locality.
 
-Mrs. Pudina’s Temperature was 100oF, Heart rate was elevated, BP was normal. No significant Respiratory, cardiovascular or abdominal Signs could be elicited. Not finding her to improve with Paracetamol and anti-histaminics, Dr. Gabbar asks her to take a course of *Azithromycin*, for 5 days, and perform salt water gargles.
+Mrs. Pudina’s Temperature was 100°F, Heart rate was elevated, BP was normal. No significant Respiratory, cardiovascular or abdominal Signs could be elicited. Not finding her to improve with Paracetamol and anti-histaminics, Dr. Gabbar asks her to take a course of *Azithromycin*, for 5 days, and perform salt water gargles.
 
 He assured her the lower abdomen pain could be due to impending dysmenorrhoea, as she was expecting her periods, which were recorded as Irregular.
 
@@ -19,7 +19,7 @@ Two days into treatment, vaginal discharge has reduced, but Mrs. Pudina develope
 
 Her antibiotics were now upgraded to Inj *Ceftriaxone* 1 gm IV BD, along with Oral Paracetamol, and IM Diclofenac sos. She was also started on Duphalac (laxative) suspension 20 ml BD, and advised to use “Smuth” Cream per-rectally.
 
-Two days into her treatment, her per-rectal symptoms reduced, but left flank pain persisted, and fever spikes continued to be there more than 100oF, atleast twice a day. Dr. Gabbar advised to repeat CBC, along with a CRP (C-reactive protein), and plan for doing an Ultrasound of the abdomen. Total counts were increased to 20,000, hemoglobin had dropped from initial 12.4 to 11.6, platelets were normal, and CRP was more than 200 (high). At this juncture, Dr. Gabbar decided to consult a Specialist, *Dr. Mogambo*, a renowned Physician in their city.
+Two days into her treatment, her per-rectal symptoms reduced, but left flank pain persisted, and fever spikes continued to be there more than 100°F, atleast twice a day. Dr. Gabbar advised to repeat CBC, along with a CRP (C-reactive protein), and plan for doing an Ultrasound of the abdomen. Total counts were increased to 20,000, hemoglobin had dropped from initial 12.4 to 11.6, platelets were normal, and CRP was more than 200 (high). At this juncture, Dr. Gabbar decided to consult a Specialist, *Dr. Mogambo*, a renowned Physician in their city.
 
 Dr. Mogambo examined Mrs. Pudina, and advised for Blood Culture, Urine culture, and to go ahead with USG abdomen, and to continue medical care under the supervision of Dr. Gabbar. USG abdomen revealed *left side Ovarian cyst*, and mild hydronehprosis of left kidney. Dr. Mogambo opined, this could be a case of *Pyelonephritis*, and advised to upgrade antibiotics to *IV Meropenem* thrice daily, and to meet a Gynaecologist, and Urologist, and plan for DJ stenting of ureter, if not improved.
 
@@ -37,5 +37,5 @@ In the following week, Dr. Lal Pari treated Mrs. Pudina with IM Depot preparatio
 
 After taking a few weeks off, Mrs. Pudina is now back to her work, hale and hearty, actively working on reducing weight, and trying to bring positive changes into the life of others.
 
-This is the story of Dr. Gabbar and Mrs. Pudina. What would you do if you had been in place of Dr. Gabbar ? Could your approach and management be any different from the one mentioned here.
+This is the story of Dr. Gabbar and Mrs. Pudina. What would you do if you had been in place of Dr. Gabbar? Could your approach and management be any different from the one mentioned here.
 

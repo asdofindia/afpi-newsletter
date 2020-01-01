@@ -3,7 +3,7 @@ title: "President's letter"
 authors:
   -
     name: Dr Swapna Bhaskar
-    affiliation: Karnataka Chapter President
+    affiliation: President, AFPI Karnataka
 order: 01
 ---
 

@@ -8,57 +8,55 @@ authors:
 ---
 
 ### Presentation ###
-34 year old Mr. P from Soraba presented with on and off fever for 3 months. He also had mild cough (on and off), diarrhoea, vomiting, severe headache, loss of appetite. He was extremely weak and had not attended to his work for 3 months. Fever was ranging from 101 F to 103 F and associated with chills and rigours. He is known to have severe migraine for the last 10 years.
+34 year old Mr. P from Soraba presented with on and off fever for 3 months. He also had mild cough (on and off), diarrhoea, vomiting, severe headache, loss of appetite. He was extremely weak and had not attended to his work for 3 months. Fever was ranging from 101°F to 103°F and associated with chills and rigours. He is known to have severe migraine for the last 10 years.
 
 
 ### History of Presenting Complaints ###
 Patient started getting fever with mild cough, cold, at Soraba in the January of 2019. He was symptomatically treated. As the fever did not come down his sputum was examined for AFB at RNTCP Shimoga after a week and was negative.
 
-After 15 days also, fever did not come down, so, he  was admitted, at Mangalore NITTE medical college hospital for 8 days.
+After 15 days also, fever did not come down, so, he  was admitted, at a medical college hospital in Mangalore for 8 days.
 
-All the investigations- blood routine, blood culture, urine culture, X-Ray chest, ultrasound abdomen was done. The Widal was positive and was given a full course of anti- typhoid treatment- with ciprofloxacin and cefixime. As the patient yet went on getting spikes of high fever, patient got discharged against medical advice. The hospital diagnosed it as P.U.O.
+All relevant investigations - blood routine, blood culture, urine culture, X-ray chest, ultrasound abdomen - were done. Widal was positive and accordingly he was given a full course of anti-typhoid treatment - with ciprofloxacin and cefixime. As the patient yet went on getting spikes of high fever, patient got discharged against medical advice. The hospital diagnosed it as P.U.O.
 
-After 15 days, he went to Sagara, where in, X-Ray chest was repeated, and routine blood counts, were done. Brucellosis and Proteus blood test were also done – and were negative.
+After 15 days, he went to Sagara wherein X-ray chest was repeated, and routine blood counts, were done. Brucellosis and Proteus blood test were also done – and were negative.
 
 He was given another course of anti-typhoid treatment, as Widal was strongly positive.
 
-Then he took a different course of treatment-- he went to “God Annamma”- for 3 weeks.
+Then he took a different course of treatment. He went to “God Annamma”- for 3 weeks.
 
-By this time his condition deteriorated and visited Chamarajpet, where AFB, GeneXpert were repeated by RNTCP Chamarajpet. It was negative. His X-Ray and blood tests were repeated. They were also negative.
+By this time his condition deteriorated and he visited Chamarajpet, where AFB and GeneXpert were repeated by RNTCP Chamarajpet. It was negative. His X-ray and blood tests were repeated. They were also negative.
 
 By this time patient was terribly sick and with his relatives help, he landed in my clinic on 10th April- exactly 3 months from the commencement of fever.
 
-They asked me to see the records first, and patient was sitting in the waiting room. After going through – I was just thinking, what else I can do? They have done everything. – Blood counts, X-ray, blood culture, HIV, blood for brucellosis and Proteus, AFB, GeneXpert.
+They asked me to see the records first, and patient was sitting in the waiting room. After going through – I was just thinking, what else I can do? They have done everything – blood counts, x-ray, blood culture, HIV test, blood for brucellosis and proteus, AFB, GeneXpert.
 Shuddering in my shoes, I just asked to bring the patient in for examination.
 
-He was a 34 years gentleman, who looked sick and moribund, had lost weight of 12 Kgs in 3 months, weighing 42 kgs, dehydrated, speaking in monosyllables, no jaundice, 103 F fever, 120 pulse, on to himself, not bothered about surrounding---serious to see.
+He was a 34 years gentleman, who looked sick and moribund, had lost weight of 12 Kgs in 3 months, weighing 42 kgs, dehydrated, speaking in monosyllables, no jaundice, 103°F fever, 120 pulse, on to himself, not bothered about surrounding and serious to see.
 His RS was normal on clinical exam.
-Abdomen -- mild enlargement of liver and spleen.
+Per abdomen there was mild enlargement of liver and spleen.
 CNS was normal. No neck rigidity. Kernig’s sign was negative. Babinski test- big toe was down going.
 CVS was normal. No bony tenderness and spine were normal.
 
-First, I asked for routine blood test and X-Ray chest, and ultrasound abdomen.
-It depends on man behind the machine- not the machine.
+First, I asked for routine blood test and x-ray chest, and ultrasound abdomen.
+It depends on man behind the machine - not the machine.
 
-The X-ray ----showed Miliary opacities with Rt plural effusion, mild, with hilar adenopathy suggestive of Miliary tuberculosis. He was advised – HRCT of lungs.
+The new x-ray showed miliary opacities with right sided pleural effusion, mild, with hilar adenopathy suggestive of miliary tuberculosis. He was advised HRCT of lungs.
 
-Abdomen Ultrasound showed – mild hepato-splenomegaly with portal adenopathy.
-Minimal Ascites and Rt Plural effusion were present.
+Abdomen ultrasound showed mild hepato-splenomegaly with portal adenopathy. Minimal ascites and right pleural effusion were also noted.
 
-We aspirated plural fluid under ultrasound guidance and found -exudate-Straw coloured, cell count 900 cells, Protein- 5.1 Gm/dl, cells type - Lymphocytes -80%.
+We aspirated pleural fluid under ultrasound guidance and found -exudate-Straw coloured, cell count 900 cells, Protein- 5.1 Gm/dl, cells type - Lymphocytes -80%.
 
-CT thorax- Miliary tuberculosis with Rt plural Effusion and subcarinal calcified lymph nodes.
+CT thorax- miliary tuberculosis with right pleural effusion and subcarinal calcified lymph nodes.
 
-Then the usual Treatment of 4 drugs were started.
+Then the usual treatment of 4 drugs were started.
 
 As the headache did not come down even after 10 days and he was not responding to usual treatment with analgesics (thinking of Migraine- as he had previous history of Migraine) – MRI Brain was done.
 
-MRI of Brain- report- Multiple supra and infra tentorial ring enhancing lesions with few of them showing perilesional oedema. Rt frontal enhancing meninges.
-Rt cerebellar hemisphere enhancing wedge shaped lesion.
+MRI of Brain report said multiple supra and infra tentorial ring enhancing lesions with few of them showing perilesional oedema, right frontal enhancing meninges, and right cerebellar hemisphere enhancing wedge shaped lesion were noted.
 
 All these are suggestive of Koch’s.
 
-Final Diagnosis- Disseminated Tuberculosis
+Final Diagnosis - Disseminated Tuberculosis
 
 For disseminated tuberculosis and when the patient condition is serious and with the involvement of brain, WHO recommends adding steroids to anti TB treatment to reduce the morbidity and mortality.
 
