@@ -1,5 +1,6 @@
 ---
 title: "A Tale of Continued Diagnosis"
+order: 07
 authors:
   -
     name: Dr Sulaiman Sharieff
