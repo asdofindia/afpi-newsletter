@@ -14,6 +14,9 @@ const Header = ({ siteTitle }) => (
         margin: `0 auto`,
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
+        display: `flex`,
+        justifyContent: `space-between`,
+        flexWrap: `wrap`
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -26,10 +29,10 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
-        <img id="main-logo" src="/images/afpi-logo.png" style={{
-          float:'right'
-        }}/>
       </h1>
+      <img id="main-logo" src="/images/afpi-logo.png" style={{
+        marginBottom: `0`
+      }}/>
     </div>
   </header>
 )
