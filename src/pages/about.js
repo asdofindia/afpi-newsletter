@@ -22,6 +22,42 @@ const AboutPage = () => {
       "role": "President",
       "name": "Dr Swapna Bhaskar",
       "email": "swapnabhaskar305@gmail.com"
+    },
+    {
+      "role": "Vice President",
+      "name": "Dr Ramakrishna Prasad",
+    },
+    {
+      "role": "Secretary",
+      "name": "Dr Srividhya Raghavendra"
+    },
+    {
+      "role": "Joint Secretary",
+      "name": "Dr Harshpriya"
+    },
+    {
+      "role": "Treasurer",
+      "name": "Dr Gowri Chintalapalli"
+    },
+    {
+      "role": "Joint Treasurer",
+      "name": "Dr Shalini Chandan"
+    },
+    {
+      "role": "Executive Member (Academics)",
+      "name": "Dr Soumya Vivek"
+    },
+    {
+      "role": "Executive Member (PR and Social Media)",
+      "name": "Dr Jyotika Gupta"
+    },
+    {
+      "role": "Executive Member (Business)",
+      "name": "Dr Anupama Nagaraja"
+    },
+    {
+      "role": "Executive Member (Outreach and collaboration)",
+      "name": "Dr Roshni JhanGanguly"
     }
   ]
   const editorialTeam = [
@@ -38,7 +74,7 @@ const AboutPage = () => {
     "email": "dr.rk.prasad@gmail.com"
   },
   {
-    "name": "Dr Roshni Jhan Ganguly",
+    "name": "Dr Roshni JhanGanguly",
     "email": "roshnijhan@hotmail.com"
   },
   {
