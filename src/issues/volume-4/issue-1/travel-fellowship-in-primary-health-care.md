@@ -1,5 +1,5 @@
 ---
-title: A journey towardshealth for all - a travel fellowship in primary health care
+title: A journey towards health for all - a travel fellowship in primary health care
 order: 102
 authors:
   -
