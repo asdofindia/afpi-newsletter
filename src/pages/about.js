@@ -98,7 +98,7 @@ const AboutPage = () => {
       <ul>
         {officeBearers.map(bearer => <Bearer {...bearer} />)}
       </ul>
-      <h2>Editorial Team</h2>
+      <h2 id="editorial-team">Editorial Team</h2>
       <ul>
         {editorialTeam.map(editor => <Editor {...editor} />)}
       </ul>
