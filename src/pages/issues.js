@@ -30,7 +30,7 @@ const IssuesPage = ({data}) => {
   const issues = issuePaths.map(({fieldValue}) => getIssueIdFromPath(fieldValue) )
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="All Issues" />
       <ul>
         {issues.map((issue) => <li><Link to={`/${issue}/`}>{getIssueName(issue)}</Link></li>)}
       </ul>

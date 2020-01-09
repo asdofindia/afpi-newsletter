@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 
 // Components
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 import { Link, graphql } from "gatsby"
 import { getIssueName } from "../utils/name-tools"
 
@@ -11,6 +12,7 @@ const Issues = ({ pageContext, data }) => {
   const { issueId } = pageContext
   return (
     <Layout>
+    <SEO title={getIssueName(issueId)} />
     <div>
       <h1>Issue: {getIssueName(issueId)}</h1>
       <h2>Contents</h2>
