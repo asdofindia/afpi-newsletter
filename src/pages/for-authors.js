@@ -17,6 +17,9 @@ const AuthorsInstructionPage = () => {
         <p>
             To submit an article here, the only requirement is that it is a genuine article that advances our mission. The language, the format, the structure, none of that should bother you. Our editorial team will help you restyle, restructure, and rethink your article, if required, before publication. What matters to us is that you write with conviction.
         </p>
+        <p>
+          We allow the author(s) to retain their <strong>copyright</strong> to the articles they publish here and we strongly encourage that the authors in turn release their article under a <a href="https://creativecommons.org/share-your-work/">Creative Commons license</a> to allow wide resharing. Read <Link to="/copyright">our copyright policy</Link>.
+        </p>
         <p>You can send your submissions by email to <a href="mailto:team@newsletter.afpikarnataka.in">team@newsletter.afpikarnataka.in</a> or any member of the <Link to="/about#editorial-team">editorial team</Link> and one of us will get back to you.</p>
         <h3>Preferred format for submission</h3>
         <p>If you submit your article in any of these formats, it will make our life easy:</p>
