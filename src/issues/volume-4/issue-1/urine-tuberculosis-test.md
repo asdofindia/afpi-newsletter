@@ -1,6 +1,5 @@
 ---
 title: Urine Tuberculosis Test
-order: 20
 ---
 
 Lipoarabinomannan (LAM) is a component of the cell wall shed by *Mycobacterium tuberculosis*. Tests based on the detection of LAM in urine have emerged as potential point-of-care tests for TB. Urine-based testing would have advantages over sputum-based testing because urine is easy to collect and store, and lacks the infection control risks associated with sputum collection.[^1]

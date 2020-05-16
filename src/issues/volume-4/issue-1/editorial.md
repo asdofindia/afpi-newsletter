@@ -1,6 +1,5 @@
 ---
 title: "Editorial"
-order: 02
 authors:
   -
     name: Akshay S Dinesh

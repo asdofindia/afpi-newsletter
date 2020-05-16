@@ -4,7 +4,6 @@ authors:
   -
     name: Dr Swapna Bhaskar
     affiliation: President, AFPI Karnataka
-order: 01
 ---
 
 Hello  Readers!

@@ -1,6 +1,6 @@
 ---
 title: Patient With Fever
-order: 05
+type: "Case Report"
 authors:
   -
     name: Dr H. S. Mrutyunjaya

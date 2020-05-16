@@ -1,6 +1,5 @@
 ---
 title: Rural Sensitization Program
-order: 101
 authors:
   -
     name: Tribal Health Initiative

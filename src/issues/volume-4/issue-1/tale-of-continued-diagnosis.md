@@ -1,6 +1,6 @@
 ---
 title: "A Tale of Continued Diagnosis"
-order: 07
+type: "Practice Experience"
 authors:
   -
     name: Dr Sulaiman Sharieff

@@ -1,6 +1,5 @@
 ---
 title: A journey towards health for all - a travel fellowship in primary health care
-order: 102
 authors:
   -
     name: Tribal Health Initiative

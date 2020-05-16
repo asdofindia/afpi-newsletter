@@ -28,46 +28,6 @@ const extraInfoFromPath = absolutePath => {
   }
 }
 
-const extractIssueId = (issueAbsolutePath) => extraInfoFromPath(issueAbsolutePath)
-
-// to generate each issue's contents
-exports.createPages = async ({ actions, graphql, reporter }) => {
-  const { createPage } = actions
-  const issueTemplate = path.resolve("src/templates/issues.js")
-  const result = await graphql(`
-    {
-      issueGroup: allFile(filter: {sourceInstanceName: {eq: "issues"}}) {
-        group(field: dir) {
-          edges {
-            node {
-              id
-              relativePath
-            }
-          }
-        fieldValue
-        }
-      }
-    }
-  `)
-  // handle errors
-  if (result.errors) {
-    reporter.panicOnBuild(`Error while running GraphQL query.`)
-    return
-  }
-  const issues = result.data.issueGroup.group
-  issues.forEach(issue => {
-    const { issueId } = extractIssueId(issue.fieldValue)
-    createPage({
-      path: `/${issueId}/`,
-      component: issueTemplate,
-      context: {
-        issueId,
-        isIssueIndex: true
-      },
-    })
-  })
-}
-
 exports.onCreatePage = ({ page, actions }) => {
   const { createPage, deletePage } = actions
   const oldPage = Object.assign({}, page)
