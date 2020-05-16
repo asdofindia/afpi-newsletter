@@ -58,7 +58,7 @@ const Layout = ({ pageContext, children, path}) => {
         <p className="noPrint">
           Article Download Options: <a href={`${pdfLink}`} download={pdfFileName}>PDF</a>
         </p>
-        <p>{pageContext.frontmatter.type}</p>
+        <p><strong>{pageContext.frontmatter.type}</strong></p>
         <h2>{pageContext.frontmatter.title}</h2>
         <Authors authors={pageContext.frontmatter.authors} />
         <hr />
