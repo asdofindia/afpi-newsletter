@@ -1,6 +1,7 @@
 @media (min-width: 481px) {
   .article main {
     column-count: 2;
+    column-gap: 7rem;
   }
 }
 
