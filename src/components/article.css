@@ -5,7 +5,7 @@
   }
 }
 
-@media (not print) {
+@media not print {
   .onlyPrint {
     display: none;
   }
@@ -15,5 +15,20 @@
   .noPrint {
     display: none;
   }
+  .article main {
+    column-gap: 4rem;
+  }
 }
 
+img {
+  break-inside: avoid;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  break-after: avoid;
+  break-inside: avoid;
+}
+
+.gatsby-resp-image-wrapper {
+  break-inside: avoid;  
+}

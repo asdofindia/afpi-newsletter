@@ -4,7 +4,8 @@ const gatsbyRemarkPlugins = [
   {
     resolve: `gatsby-remark-images`,
     options: {
-      maxWidth: 1200
+      maxWidth: 1200,
+      loading: `eager`
     }
   }
 ]
