@@ -28,6 +28,7 @@ const IssuesPage = ({data}) => {
   ]
   const issuePaths = data.issueGroup.group
   const issues = issuePaths.map(({fieldValue}) => getIssueIdFromPath(fieldValue) )
+  issues.sort().reverse()
   return (
     <Layout>
       <SEO title="All Issues" />

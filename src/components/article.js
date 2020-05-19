@@ -23,7 +23,7 @@ const Author = ({name, affiliation}) => (
 
 const Authors = ({authors}) => {
   if (!Array.isArray(authors)) return ""
-  return authors.map(author => <Author name={author.name} affiliation={author.affiliation} />)
+  return authors.map(author => <Author key={author.name} name={author.name} affiliation={author.affiliation} />)
 }
 
 const Layout = ({ pageContext, children, path}) => {
