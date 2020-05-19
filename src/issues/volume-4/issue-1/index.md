@@ -6,8 +6,7 @@ import Layout from "../../../components/issueIndex"
 
 export default Layout
 
-## Volume 4, Issue 1 ##
-
+Published: January, 2020
 
 * [President's letter](./president-letter/)
 * [Editorial](./editorial/)
