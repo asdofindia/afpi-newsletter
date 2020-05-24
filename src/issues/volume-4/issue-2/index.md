@@ -10,6 +10,9 @@ Published: May, 2020
 
 * [President's letter](./president-letter/)
 * [Editorial](./editorial/)
+* [Editorial Note On Opinion Articles](./editorial-note-on-opinion-articles/)
+
+* [AFPI Karnataka News](./afpi-karnataka-news/)
 * Article: [Community Health: Stopping the Clock on our Ever-Expanding World](./community-health/)
 * Article: [Life-Long Learning Strategies for Family Physicians](./life-long-learning-strategies/)
 * Practice Experience: [Dilemmas of a GP](./dilemmas-of-a-gp/)
@@ -17,3 +20,4 @@ Published: May, 2020
 * Opinion: [Healthcare Delivery System in India - My Reflections](./healthcare-delivery-system-in-india-my-reflections/)
 * Republished article: [Ethical challenges of digital health technologies: Aadhaar, India](./ethical-challenges-of-digital-health-technologies-aadhaar-india/)
 * Article: [Paradigm Shift in Cancer Management - Molecular Therapy](./paradigm-shift-in-cancer-management/)
+* News: [Spice Route India Cafe: Voices of Young Family doctors from across the country](./spice-route-india-cafe/)

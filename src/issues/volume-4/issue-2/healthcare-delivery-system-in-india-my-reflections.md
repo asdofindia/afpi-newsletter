@@ -26,12 +26,6 @@ A doctor is an artist. There are good artists and there are not so good artists.
 
 The government should at least provide this, if they are not providing good government hospitals. If this facility is available then, it will put indirect pressure on all the hospitals to provide the right and cost effective care to the patients and will treat them well, because they have to retain them to make money and be in business.  
 
-I want to feel safe entrusting the life of my loved ones in the hands of doctors. Money is not the question here. Getting quality health care, ensuring the well being of the patients by following ethical principles of medical care viz, 
+I want to feel safe entrusting the life of my loved ones in the hands of doctors. Money is not the question here. Getting quality health care, ensuring the well being of the patients by following ethical principles of medical care viz, -- 1) Principle of respect for autonomy, 2) Principle of nonmaleficence, 3) Principle of beneficence, and 4) Principle of justice.
 
-1. Principle of respect for autonomy,
-2. Principle of nonmaleficence,
-3. Principle of beneficence, and
-4. Principle of justice.
-
-This is the need of the hour, and not getting financially and emotionally drained by visiting these hospitals. 
- 
+This is the need of the hour, and not getting financially and emotionally drained by visiting these hospitals.
