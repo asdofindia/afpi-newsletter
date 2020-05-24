@@ -2,7 +2,7 @@
 title: AFPI Karnataka News
 ---
 
-**Dr  R L Sankha** – the President of Spice Route - SAR visited Bangalore and AFPI hosted a get together for him with young graduates of FM at St Philomena’s Hospital on January 11, 2020. Dr Sankha spoke about Spice Route Movement and its activities and had a fruitful discussion about challenges of general practice in both countries. The session was attended by about 20 doctors and was live streamed on Facebook. 
+**Dr  R L Sankha** – the President of Spice Route - SAR visited Bangalore and AFPI hosted a get together for him with young graduates of FM at St Philomena’s Hospital on January 11, 2020. Dr Sankha spoke about Spice Route Movement and its activities and had a fruitful discussion about challenges of general practice in both countries. The session was attended by about 20 doctors and was live streamed on Facebook.
 
 ---
 
@@ -14,15 +14,15 @@ It was a great honor when the VC and team of **RGUHS** invited AFPI to be the re
 
 ---
 
-AFPI members led another **webinar** for FPAB members on May 10, 2020 on “Clinic Management and PPEs for the practicing GP during COVID”. Dr Swapna Bhaskar and Dr Sowmya B Ramesh spoke on the topics respectively. The session was attended by over 200 doctors online and well appreciated. 
+AFPI members led another **webinar** for FPAB members on May 10, 2020 on “Clinic Management and PPEs for the practicing GP during COVID”. Dr Swapna Bhaskar and Dr Sowmya B Ramesh spoke on the topics respectively. The session was attended by over 200 doctors online and well appreciated.
 
 ---
 
-The Public relations team of AFPI has been continuously putting up educational creative **flyers** on COVID information to the public throughout March and April. The response and acceptance from has been overwhelmingly positive.
+The Public relations team of AFPI has been continuously putting up educational creative **flyers** on COVID information to the public throughout March and April. The response and acceptance has been overwhelmingly positive.
 
 ---
 
-World family doctors Day (May 19th) was celebrated by releasing a video of **patient testimonials** on their family physicians and need for strong primary care in the society. It was really heartwarming to see the wholehearted appreciation of family doctors by the general public and it encourages us to serve our patients even more. 
+World family doctors Day (May 19th) was celebrated by releasing a video of **patient testimonials** on their family physicians and need for strong primary care in the society. It was really heartwarming to see the wholehearted appreciation of family doctors by the general public and it encourages us to serve our patients even more.
 
 On the special day, there was an exclusive **radio program** dedicated to family doctors on Big FM. 
 
