@@ -55,7 +55,7 @@ const Layout = ({ pageContext, children }) => {
       >
         Issue: <Link to={`/${pageContext.issueId}/`}>{issueName}</Link>
         <p className="noPrint">
-          Article Download Options: <a href="./pdf" download={pdfFileName}>PDF</a>
+          Article Download Options: <a href="./export.pdf" download={pdfFileName}>PDF</a>
         </p>
         <p><strong>{pageContext.frontmatter.type}</strong></p>
         <h2>{pageContext.frontmatter.title}</h2>

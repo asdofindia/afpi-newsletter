@@ -49,7 +49,7 @@ const getPrintPath = (link) => {
   const fileName = splitLink.slice(splitLink.length - 2, splitLink.length -1)
 
   const issueAbsoluteDir = path.join(staticDir, issueDir)
-  return path.join(issueAbsoluteDir, `${fileName}/pdf`)
+  return path.join(issueAbsoluteDir, `${fileName}/export.pdf`)
 }
 
 const parallelPrint = (links, footerTemplate) => {
