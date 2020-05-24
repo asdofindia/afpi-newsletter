@@ -16,7 +16,7 @@ const Footer = () => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      Published by <Link to="/about">AFPI Karnataka</Link>. Read our <Link to="/copyright">copyright policy</Link>.
+      Published by <Link to="/about">AFPI Karnataka</Link>. Read our <Link to="/copyright">copyright policy</Link>. <Link to="/for-authors">Comments and submissions</Link>.
     </div>
   </footer>
 )
