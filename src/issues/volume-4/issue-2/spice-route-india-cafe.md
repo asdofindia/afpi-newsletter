@@ -3,7 +3,7 @@ title: "Spice Route India Cafe: Voices of Young Family doctors from across the c
 type: "News"
 authors:
   - name: Swathi S B
-    affiliation: Primary Care Physician and Researcher
+    affiliation: Primary Care Physician and Researcher; Lead, Karnataka Chapter, Spice Route India
 ---
 
 On the occasion of World Family Doctors’ day, young family doctors from across the country met to share their experience providing Primary Health Care during the challenging situation of the current pandemic. This event was organised by the Spice Route India Movement with the leadership of Dr Serin Kuriakose, Dr Jyotika Gupta and Dr Kailas P, Dr Mohammed Idris and state leads on the 17th of May, 2020 from 9:00 - 11:00 pm. 
