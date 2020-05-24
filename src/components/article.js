@@ -26,7 +26,7 @@ const Authors = ({authors}) => {
   return authors.map(author => <Author key={author.name} name={author.name} affiliation={author.affiliation} />)
 }
 
-const Layout = ({ pageContext, children, path}) => {
+const Layout = ({ pageContext, children }) => {
   const data = useStaticQuery(graphql`
     query ArticleLayoutQuery {
       site {
@@ -37,7 +37,6 @@ const Layout = ({ pageContext, children, path}) => {
     }
   `)
 
-  const pdfLink = path.replace(/\/$/, '.pdf')
   const issueName = getIssueName(pageContext.issueId)
   const pdfFileName = `${pageContext.frontmatter.title} - ${data.site.siteMetadata.title} (${issueName})`
 
@@ -56,7 +55,7 @@ const Layout = ({ pageContext, children, path}) => {
       >
         Issue: <Link to={`/${pageContext.issueId}/`}>{issueName}</Link>
         <p className="noPrint">
-          Article Download Options: <a href={`${pdfLink}`} download={pdfFileName}>PDF</a>
+          Article Download Options: <a href="./pdf" download={pdfFileName}>PDF</a>
         </p>
         <p><strong>{pageContext.frontmatter.type}</strong></p>
         <h2>{pageContext.frontmatter.title}</h2>

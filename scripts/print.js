@@ -28,11 +28,17 @@ const createStaticDir = (issueId) => {
   fs.mkdirSync(issueDir, {recursive: true})
 }
 
+const ensureDirExistsFor = (aboslutePath) => {
+  const basedir = path.dirname(aboslutePath)
+  fs.mkdirSync(basedir, {recursive: true})
+}
+
 const printLink = async (link, path, footerTemplate) => {
   const page = await browser.newPage();
   await page.goto(link, {waitUntil: 'networkidle2'});
   await page.$$eval('a', links => links.map(link => link.href = link.href.replace(window.location.host, 'newsletter.afpikarnataka.in')))
   const displayHeaderFooter = false
+  ensureDirExistsFor(path)
   await page.pdf({path, margin, displayHeaderFooter, footerTemplate});
   console.log(`Printed ${path}`)
 }
@@ -43,7 +49,7 @@ const getPrintPath = (link) => {
   const fileName = splitLink.slice(splitLink.length - 2, splitLink.length -1)
 
   const issueAbsoluteDir = path.join(staticDir, issueDir)
-  return path.join(issueAbsoluteDir, `${fileName}.pdf`)
+  return path.join(issueAbsoluteDir, `${fileName}/pdf`)
 }
 
 const parallelPrint = (links, footerTemplate) => {
