@@ -6,14 +6,19 @@ authors:
     affiliation: Primary Care Physician and Researcher; Lead, Karnataka Chapter, Spice Route India
 ---
 
-On the occasion of World Family Doctors’ day, young family doctors from across the country met to share their experience providing Primary Health Care during the challenging situation of the current pandemic. This event was organised by the Spice Route India Movement with the leadership of Dr Serin Kuriakose, Dr Jyotika Gupta and Dr Kailas P, Dr Mohammed Idris and state leads on the 17th of May, 2020 from 9:00 - 11:00 pm. 
+On the occasion of World Family Doctors’ day, young family doctors from across the country met on a virtual platform at Spice Route India cafe, to share their experience about providing Primary Health Care during the challenging situation of the current COVID-19 pandemic.
+This event was organised by Spice Route India under the leadership of Dr Serin Kuriakose, Dr Jyotika Gupta, Dr Kailas P, Dr Mohammed Idris and state leads on May 17, 2020 from 9:00 - 11:00 pm. 
 
-This also marked the pleasant inauguration of the Spice Route India website by Col. (Dr) Mohan Kubendra. Link to the website :  https://spiceroute.afpikerala.in/
+Spice Route India is a young doctors movement under the aegis of AFPI. And this event was first of its kind in its history.  
 
-More than 70 doctors participated in the cafe and family doctors from 11 states shared their experience in caring for families during COVID-19. Participants were from across the states and included senior physicians like Dr BC Rao and young physicians as well. Experiences shared varied from running private clinics with precautions and using tele-medicine as a strategy to management of patients in hospital settings where patients with COVID 19 infection are cared for.    
+This also marked the pleasant inauguration of the Spice Route India website by National Vice President AFPI, Col. (Dr) Mohan Kubendra. Link to the website :  https://spiceroute.afpikerala.in/  
+
+More than 70 doctors participated in the cafe and family doctors from 11 states of India shared their personal experience in caring for patients during COVID 19. Participants were from across the country - spanning from Rajasthan to Nagaland and Haryana to Kerala - and included senior physicians ,young family medicine post graduates and MBBS students as well. Not to forget, we had our guests and colleagues from Sri Lanka and Bangladesh too, as a part of Spice Route SAR.
+
+Varied experiences were shared. Running private clinics with precautions, using tele-medicine as triage, working in the public health sector, attending to COVID patients in the ICUs, to name a few.
 
 ![](./spice-route-india-cafe.png)
 
-Dr Piyush Jain shared about the challenges and shifts in thinking and practice that has happened in caring for people with chronic illness and non-communicable diseases. 
+Dr Piyush Jain, member of National Executive AFPI and Nodal officer at District hospital, Agra ,was the chief guest and he brought to light the challenges in careful management of chronic illness and non-communicable diseases during pandemic.
 
-It was refreshing to take a pause and reflect on our practices, emotions that our patients and ourselves are going through, and what to expect going forward. It also brought the sense of  collective learning and togetherness among the warriors in the current battle. 
+All in all, it was refreshing to take a pause and reflect on our practices, emotions, behavioural changes that our patients and we practitioners are going through, and what to expect going forward. It also brought the sense of collective learning and togetherness among the warriors in the current battle! 
