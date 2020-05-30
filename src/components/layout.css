@@ -620,3 +620,21 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav p {
+    margin: 1.5rem;
+}
+nav a {
+    padding: 0.4rem;
+    background-color: cyan;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+}
