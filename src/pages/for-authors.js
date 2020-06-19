@@ -28,6 +28,21 @@ const AuthorsInstructionPage = () => {
             <li>Markdown</li>
             <li>Rich Text/Google doc/Word/LibreOffice Writer</li>
         </ul>
+        <h3>Categories</h3>
+        <p>Submissions are taken in the following categories</p>
+        <ul>
+            <li><strong>Events of AFPI Karnataka</strong> - event reports, including photos. Details of upcoming events.</li>
+            <li><strong>Practice Experiences</strong></li>
+            <li><strong>Case Reports</strong> - following academic structure. BMJ has a <a href="http://casereports.bmj.com/pages/wp-content/uploads/sites/69/2019/04/How-to-write-a-Case-Report-DIGITAL.pdf">guide</a> on how to write a good case report.</li>
+            <li><strong>Gleanings</strong> - learning points from contemporary literature.</li>
+            <li><strong>Young Physician’s Corner</strong> - specially reserved for young practitioners and students (both post-graduate and under-graduate)</li>
+            <li><strong>Masala</strong> - shareable moments from life of practitioners.</li>
+            <li><strong>Creative Corner</strong> - drawings, paintings, performances, recitals, compositions, anything creative. (Audio/Video also allowed, but will be published only on the web version of the newsletter)</li>
+            <li><strong>Readers’ Corner / Letter to the Editor</strong></li>
+            <li><strong>Book reviews</strong> - reviews of medical and non-medical reads</li>
+            <li><strong>Reflections</strong></li>
+        </ul>
+
         <Link to="/">Go back to the homepage</Link>
     </Layout>
   )
