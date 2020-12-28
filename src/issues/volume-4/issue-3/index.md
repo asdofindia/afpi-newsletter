@@ -8,6 +8,9 @@ export default Layout
 
 Published: December, 2020
 
+* [President's Letter](./president-letter/)
+* [Editorial](./editorial/)
+* [AFPI Karnataka Activities - 2020](./afpi-karnataka-activities-2020/)
 * Practice Reflection: [Dilemmas of a GP](./dilemmas-of-a-gp-2/)
 * Practice Reflection: [Supervised Smoking](./supervised-smoking/)
 * Practice Reflection: [Moments in Family Medicine](./moments-in-family-medicine/)
@@ -15,3 +18,4 @@ Published: December, 2020
 * Reflections: [Reflections on a book](./reflections-on-a-book/)
 * COVID: [Apartment Safety Guidlines](./apartment-safety-guidelines/)
 * Original study: [Clinical audit of diabetes management in out-patient department of a tertiary care hospital](./clinical-audit-of-diabetes-management/)
+* Case notes: [PCOD and its varied management – case scenarios in general practice](./varied-managements-of-pcod/)
