@@ -13,7 +13,7 @@ How many people really think about them or about this service that they are doin
 
 I immediately understood the reason behind my mother’s shout. It was her concern that this is just going to add more pressure to my mother and also get my family into more danger only because of her (only if she gets it). This panic had continued until the main person who gets all this agitation under control came home. My father. Somehow he convinced all of us to calm down (I do not know how he does that. It is like he has magic in his voice) after this, the day goes like how it used to before this pandemic happened. Normal, no worries in anybody’s voice and the same news over and over again played in the T.V and also, the same Arnab Goswami shouting at others(in the T.V).
 
-This cycle pretty much repeated everyday. Now also
+This cycle pretty much repeated everyday. Now also...
 
 One day I went up to my parents and asked them why they still work even though they know that it is dangerous. This was their answer- “I wouldn’t have worked if I wouldn’t have gotten the gift of seeing many people’s happiness”
 
