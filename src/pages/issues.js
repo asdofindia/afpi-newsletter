@@ -1,19 +1,16 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { Link } from "gatsby"
 import { OutboundLink } from "gatsby-plugin-google-analytics"
-import path from "path"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { getIssueName } from "../utils/name-tools"
 
-const getIssueIdFromPath = (absolutePath) => {
-  const splitPath = absolutePath.split(path.sep)
-  const lastElements = splitPath.slice(splitPath.length - 2, splitPath.length)
-  return lastElements.join(path.sep)
-}
-
-const IssuesPage = ({data}) => {
+const IssuesPage = () => {
+  const publishedWebIssues = [
+    'volume-4/issue-2',
+    'volume-4/issue-1'
+  ]
   const olderIssues = [
     'volume-1/issue-1',
     'volume-1/issue-2',
@@ -26,14 +23,13 @@ const IssuesPage = ({data}) => {
     'volume-3/issue-3',
     'volume-3/issue-4'
   ]
-  const issuePaths = data.issueGroup.group
-  const issues = issuePaths.map(({fieldValue}) => getIssueIdFromPath(fieldValue) )
-  issues.sort().reverse()
   return (
     <Layout>
       <SEO title="All Issues" />
       <ul>
-        {issues.map((issue) => <li><Link to={`/${issue}/`}>{getIssueName(issue)}</Link></li>)}
+        {publishedWebIssues.map(issue => 
+          <li><Link to={`/${issue}/`}>{getIssueName(issue)}</Link></li>)
+        }
       </ul>
       <p>Older issues (published as PDF)</p>
       <ul>
@@ -44,13 +40,3 @@ const IssuesPage = ({data}) => {
 }
 
 export default IssuesPage
-
-export const pageQuery = graphql`
-  query{
-    issueGroup: allFile(filter: {sourceInstanceName: {eq: "issues"}}) {
-      group(field: dir) {
-        fieldValue
-      }
-    }
-  }
-`
