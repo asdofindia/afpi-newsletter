@@ -2,7 +2,7 @@
 title: "A Hero's Life"
 authors:
   - name: Gowri Vivek
-  - affiliation: d/o Dr Sowmya Vivek
+    affiliation: d/o Dr Sowmya Vivek
 ---
 
 We might have clapped for our brave heroes or our front-line warriors. But how many of us really meant it? 
