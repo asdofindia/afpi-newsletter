@@ -16,6 +16,5 @@ Published: December, 2020
 * Practice Reflection: [Moments in Family Medicine](./moments-in-family-medicine/)
 * Reflections: [A Hero's Life](./a-heros-life/)
 * Reflections: [Reflections on a book](./reflections-on-a-book/)
-* COVID: [Apartment Safety Guidlines](./apartment-safety-guidelines/)
 * Original study: [Clinical audit of diabetes management in out-patient department of a tertiary care hospital](./clinical-audit-of-diabetes-management/)
 * Case notes: [PCOD and its varied management – case scenarios in general practice](./varied-managements-of-pcod/)
