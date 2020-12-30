@@ -1,8 +1,8 @@
 ---
 title: "Moments in Family Medicine"
 authors:
-  - name: Dr Sowmya B R
-    affiliation: P. D. Hinduja Sindhi Hospital
+  - name: Dr Sowmya Vivek
+    affiliation: Consultant Family Medicine Specialist, P. D. Hinduja Sindhi Hospital
 ---
 
 It was a busy day in OPD with an internal CME in hospital. After all the latest updates in surgical site infection and a brainstorming discussion, I came back to OPD to see a few more patients waiting eagerly and, moreover, patiently! My exhausted brain could not refuse reputed company’s medical representatives pestering to promote a new cost effective molecule. Four men standing to promote their product while the marketing head looked exhausted. I told “Chief! You look tired. Why don’t you sit down?”
