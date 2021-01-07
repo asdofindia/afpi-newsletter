@@ -1,6 +1,6 @@
 ---
 title: "Back Bencher: A view of life and continuing medical education from the back benches"
-author:
+authors:
   - name: Dr Badakere Rao
     affiliation: Mentor, AFPI Karnataka
 ---
@@ -19,7 +19,7 @@ The front row occupants generally come late and the importance is based on the p
 
 It's a different matter in social functions like weddings and receptions. Being the family doctor for generations of families, I often get invited to many of these which even includes ceremonies associated with death. Often, I have the dubious distinction of having presided over these deaths. Readers should not get the impression that I am another Dr Herold Shipman [who killed many an elderly]. In my case these patients who died under my care at home were terminally ill and I saw to it that unnecessary hospitalization and the resulting expense were avoided. Weddings however are joyous occasions. Normally I try and avoid these ostentatious and wasteful ceremonies. But sometimes I have to attend as the families concerned are too close for me to not to.
 
-Recently I went to a wedding. The girl, a third-generation patient, I have known since her birth. She is now placed in the US and the young man; her groom is a German. The girl’s father and mother and the grandparents from both sides also are/ were my patients.
+Recently I went to a wedding. The girl, a third-generation patient, I have known since her birth. She is now placed in the US and the young man; her groom is a German. The girl’s father and mother and the grandparents from both sides also are/were my patients.
 
 Both the grandfathers are dead (under my care at home), but the ailing grandmothers pushing 80 are very much alive. So this intimate relationship made it impossible to avoid this wedding.
 
