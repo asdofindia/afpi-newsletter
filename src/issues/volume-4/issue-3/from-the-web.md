@@ -41,7 +41,7 @@ export default Layout
 
 <br/>
 
-<a href="https://facebook.com/AFPIKarnataka"><IoLogoFacebook size={56}/>/AFPIKarnatka</a>
+<a href="https://facebook.com/AFPIKarnataka"><IoLogoFacebook size={56}/>/AFPIKarnataka</a>
 
 <br/>
 
