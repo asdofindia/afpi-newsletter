@@ -8,6 +8,7 @@ import { getIssueName } from "../utils/name-tools"
 
 const IssuesPage = () => {
   const publishedWebIssues = [
+    'volume-4/issue-3',
     'volume-4/issue-2',
     'volume-4/issue-1'
   ]
