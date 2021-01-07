@@ -87,3 +87,5 @@ Community programmes need to be planned with far-sightedness, with sustainabilit
 34. If life takes away one canvas, it gives you another to paint. 
 
 35. If you have done your part right then it doesn't matter what life throws at you, it will be easier to sail through it.
+
+![Dr Vivek Kumar (holding the book) in a group discussion](./reflections-on-a-book-1.jpg)

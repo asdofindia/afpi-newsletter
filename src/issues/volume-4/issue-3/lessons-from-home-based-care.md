@@ -47,7 +47,7 @@ On day 6 the fever continued. She was better in the morning, but was finding the
 
 On close examination, there was mild tenderness in the right hypochondriac region. With the right shoulder pain continuing, we had to keep acute cholecystitis high on the list of differentials.
 
-Closing in on a week of fever, and with no clear diagnosis, we made a phone calls to a senior family physican and an infectious diseases specialist at a teaching hopsital. After the discussions, we asked for a USG abdomen and pelvis, LFT, Serum Creatinine, Serum Electrolytes, and a Chest X-ray. But it was a weekend and the tests couldn't be done at home.
+Closing in on a week of fever, and with no clear diagnosis, we made phone calls to senior family physicans and an infectious diseases specialist at a teaching hopsital. After the discussions, we asked for a USG abdomen and pelvis, LFT, Serum Creatinine, Serum Electrolytes, and a Chest X-ray. But it was a weekend and the tests couldn't be done at home.
 
 On that Saturday night when high fever continued, in view of high total leukocyte count, we started her on Ceftriaxone and Metronidazole for possible acute cholecystitis.
 
