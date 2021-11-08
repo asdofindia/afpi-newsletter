@@ -2,7 +2,7 @@
 title: "An Alternative System of Health Care Services in India : Some General Considerations"
 authors:
   - name: J. P. Naik
-    affiliation: "5 September 1907 - 30 August 1981"
+    affiliation: "5 September 1907 - 30 August 1981; Educator; Thinker, writer, inspirer, organizer, and administrator"
 ---
 
 *This is the transcript of The fourth Sir Lakshmanswami Mudliar Oration delivered at the Sixteenth Annual Conference of the All India Association for the Advancement of Medical Education, at Chandigarh on Saturday, 12 March, 1977. It is being republished here for archival and wider dissemination from the copy of the Bulletin of the IIE available in archive.org [here](https://archive.org/details/AnAlternativeSystemOfHealthCareServicesInIndia/).*
@@ -40,7 +40,7 @@ required.
 
 There is no doubt that we have achieved a good deal during the last 30 years if judged by the targets we thus set before ourselves.
 There is now a 
-huge Ministry of Health and Family Planning at the Centre and large departments of public health and medical services in the States. The doctor still remains the prinipal agent of health care and there has inevitably been a concentration on his training. As against 15 medical colleges with an admission capacity of about 1,200 per year in 1947, we now 
+huge Ministry of Health and Family Planning at the Centre and large departments of public health and medical services in the States. The doctor still remains the principal agent of health care and there has inevitably been a concentration on his training. As against 15 medical colleges with an admission capacity of about 1,200 per year in 1947, we now 
 have 106 colleges with an admission capacity of about 12,500 per annum.
 The standards of training were also ‘upgraded’ with the abolition of the 
 shorter licenciate course and the introduction of a uniform course of 4½
@@ -746,3 +746,7 @@ Secretary, Ministry of Health and Family Planning; Dr. P. N. Wahi, Executive Dir
 Shah; and Dr. Raj Arole. I am especially grateful to Prof. D. Banerji on 
 whose writings I have heavily drawn. I would like to make it clear, however, that the views expressed here are my exclusive and personal responsibility and that they do not also represent the views of policies of the 
 ICSSR. 
+
+---
+
+Read more about JP Naik [here](https://en.m.wikipedia.org/wiki/Jayant_Pandurang_Naik), [here](https://archive.org/details/TheSocialContextOfEducation-EssaysInHonourOfProf.J.P.Naik1978/), or [here](https://www.jstor.org/stable/4370324)
