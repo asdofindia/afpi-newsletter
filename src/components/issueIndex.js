@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
-import SEO from "./seo"
+import Seo from "./seo"
 import Footer from "./footer"
 import "./article.css"
 
@@ -30,7 +30,7 @@ const Layout = ({ pageContext, children, path}) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <SEO title={pageContext.frontmatter.title} />
+      <Seo title={pageContext.frontmatter.title} />
       <div
         style={{
           margin: `0 auto`,

@@ -11,7 +11,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 
 import { getIssueName } from "../utils/name-tools"
 import Header from "./header"
-import SEO from "./seo"
+import Seo from "./seo"
 import Footer from "./footer"
 import "./article.css"
 
@@ -43,7 +43,7 @@ const Layout = ({ pageContext, children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <SEO title={pageContext.frontmatter.title} />
+      <Seo title={pageContext.frontmatter.title} />
       <div
         className="article"
         style={{

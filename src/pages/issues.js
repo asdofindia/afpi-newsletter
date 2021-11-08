@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import { OutboundLink } from "gatsby-plugin-google-analytics"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import { getIssueName } from "../utils/name-tools"
 
 const IssuesPage = () => {
@@ -26,7 +26,7 @@ const IssuesPage = () => {
   ]
   return (
     <Layout>
-      <SEO title="All Issues" />
+      <Seo title="All Issues" />
       <ul>
         {publishedWebIssues.map(issue => 
           <li><Link to={`/${issue}/`}>{getIssueName(issue)}</Link></li>)

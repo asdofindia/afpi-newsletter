@@ -2,12 +2,12 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const CopyrightPage = () => {
     return (
     <Layout>
-      <SEO title="Copyright policy" />
+      <Seo title="Copyright policy" />
       <h1>Copyright policy</h1>
       <p>
         All authors retain their copyright when publishing their article in our newsletter.

@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const Email = ({email}) => (
   <a href={`mailto:${email}`}>{email}</a>
@@ -92,7 +92,7 @@ const AboutPage = () => {
   ]
   return (
     <Layout>
-      <SEO title="About" />
+      <Seo title="About" />
       <h1>About</h1>
       <h2>Office Bearers</h2>
       <ul>

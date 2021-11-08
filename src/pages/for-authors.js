@@ -2,12 +2,12 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const AuthorsInstructionPage = () => {
   return (
     <Layout>
-      <SEO title="Instructions For Authors" />
+      <Seo title="Instructions For Authors" />
       <h1>Instructions for Authors</h1>
         <p>
             There is rich experience in the practice of each one of us.

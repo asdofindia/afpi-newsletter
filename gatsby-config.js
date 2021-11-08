@@ -84,6 +84,5 @@ module.exports = {
     `gatsby-plugin-offline`,
   ],
   flags: {
-    LAZY_IMAGES: false
   },
 }
