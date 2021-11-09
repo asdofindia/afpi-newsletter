@@ -152,7 +152,7 @@ The diabetic care given by each medical unit for each parameter in percentage is
 
 *Parameter achieved in percentage
 
-[View table in new window](/volume-4/issue-3/clinical-audit-of-diabetes-management-table-1/)
+[View table in new window](/volume-5/issue-1/clinical-audit-of-diabetes-management-table-1/)
 
 The results showed100% score in complete history and examination, 98.4% in blood pressure measurement , 96.4% in following up of lipid profile and 93.3% in counselling for smoking cessation at every visit. The score for the screening for cardiovascular system with a routine electrocardiograph was 61.4% in the study and that for ophthalmic examination with a fundoscopy was 57.1%. Screening for microalbuminuria at diagnosis and annually was done only in 54.3% of patients. Lastly, checking for peripheral neuropathy and comprehensive foot care scored a dismal 48.8% and 40.9% respectively.
 
