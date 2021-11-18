@@ -8,17 +8,18 @@ export default Layout
 
 <div>
 
-| | |Drugs |MOA |AE |CI |Uses |
+| | |Drugs |Mechanism Of Action |Adverse Effects |Contraindications |Uses |
 |--- |--- |--- |--- |--- |--- |--- |
-|Directly acting vasodilators|Venous|NITRATES (GTN AND NITROGLYCERIN)|RELEASES NO THROUGH CYCLIC GMP|TACCHYCARDIA,HEADACHE FLUSING AND ORTHOSTATIC HYPOTENSION|AS THEY DECREASE PRELOAD DO NOT USE IN INFERIOR MI OR RIGHT VENTRICULAR INFARCTION|ACUTE AND CHRONIC ANGINA|
-||Arterial|CCB (DHP LIKE AMLODIPINE AND NON DHP LIKE VERAPAMIL)|BLOCKS CALCIUM CHANNELS IN THE CARDIAC AND SMOOTH MUSCLE|GINGIVAL HYPERPLASIA AND PERIPHERAL EDEMA ,AVBLOCK BRADYCARDIA AND CONSTIPATION|HYPOTENSION AND HYPERSENSITIVITY|HTN ARRYTHMIA ANGINA|
-|||MINOXIDIL DIAZOXIDE|ATP sensitive Potassium channel openers|HYPERTRICHOSIS FLUID RETENTION||Alopecia|
-|||PRAZOSIN|ALPHA BLOCKER|First dose hypotension|CHF|3rd line drug in HTN|
-|||HYDRALAZINE|DIRECTLY RELAXES ARTERIOLAR SMOOTH MUSCLES THROUGH CYCLIC AMP|TACCHYCARDIA FLUID RETENTION AND SLE|CAD ANGINA RHD AS IT CAUSES COMPENSATORY TACCHYCARDIA|PIH|
-||Mixed|ACE INHIBITORS ARB|PREVENT CONVERSION OF ANGIOTENSIN I TO II    PREVENTS ANGIOTENSINII FROM BINDING TO ITS RECEPTOR (CARDIORENO PROTECTIVE)|DRY COUGH HYPERKALEMIA AND HYPOTENSION HYPERKALEMIA AND HYPOTENSION|PREGNANCY AND HEREDITARY ANGIOEDEMA PREGNANCY|Heart failure HTN MI CCF SCLERODE RMA CRISIS|
-|||SODIUM NITROPRUSSIDE|BOTH VENOUS AND ARTERIOLAR DILATOR RELEASING NO|CYANIDE TOXICITY||Hypertensive emergencies|
-|BETA 2 RECEPTOR AGONIST||SALBUTAMOL TERBUTALINE|Beta 2 mediated vasodilatation|Tremors hypokalemia|||
-|CENTRALLY ACTING ALPHA 2 RECEPTOR AGONIST||CLONIDINE METHYLDOPA|Acts on presynaptic alpha 2 receptor and decreases sympathetic outflow|Rebound hypertension on withdrawal||LAST DRUG OF CHOICE IN HTN FIRST DRUG OF CHOICE IN PIH BUT NOW A DAYS WE ARE INTO “NIFEDIPINE RETARDOR LABETELOL”|
-|ENDOTHELIN RECEPTOR ANTAGONISTS||BOSENTAN AMBRISENTAN|ETA and ETB receptor blocker|Anaemia teratogenecity||Pulmonary arterial hypertension|
-|BETA BLOCKERS WITH NITRIC OXIDE VASODILATATION||BISOPROLOL NEBIVOLOL| BETA 1 BLOCK REDUCES HEART RATE AND CARDIA WORK LOAD AND NO CAUSES VASODILATATION|BRADYCARDIA|Heart Block|YOUNG HYPERTENSIVES|
+|Directly acting vasodilators|Venous|Nitrates (GTN and Nitroglycerin)|Releases NO through cyclic GMP|Tachycardia, headache, flushing and orthostatic hypotension|As they decrease preload do not use in inferior MI or right ventricular infarction|Acute and chronic angina|
+||Arterial|CCB (DHP like Amlodipine and non-DHP like Verapamil)|Blocks calcium channels in the cardiac and smooth muscle|Gingival hyperplasia and peripheral edema, AV block, bradycardia and constipation|Hypotension and hypersensitivity|HTN, arrythmia, angina|
+|||Minoxidil, Diazoxide|ATP sensitive potassium channel openers|Hypertrichosis, Fluid retention||Alopecia|
+|||Prazosin|Alpha Blocker|First dose hypotension|CHF|3rd line drug in HTN|
+|||Hydralazine|Directly relaxes arteriolar smooth muscles through cyclic AMP|Tachycardia, fluid retention and SLE|CAD, angina, RHD as it causes compensatory tacchycardia|PIH|
+||Mixed|ACE inhibitors|Prevent conversion of Angiotensin I to II|Dry cough hyperkalemia and hypotension|Pregnancy and hereditary angioedema|Heart failure, HTN, MI, CCF, Scleroderma crisis|
+|||ARB|Prevents Angiotensin II from binding to its receptor (cardio-reno protective)|Hyperkalemia and hypotension|Pregnancy||
+|||Sodium Nitroprusside|Both venous and arteriolar dilator releasing NO|Cyanide toxicity||Hypertensive emergencies|
+|Beta 2 receptor agonist||Salbutamol Terbutaline|Beta 2 mediated vasodilatation|Tremors hypokalemia|||
+|Centrally acting Alpha 2 receptor agonist||Clonidine, Methyldopa|Acts on presynaptic alpha 2 receptor and decreases sympathetic outflow|Rebound hypertension on withdrawal||Clonidine - Last Drug Of Choice In HTN<br/>Methyldopa - First drug of choice in PIH but nowadays we are into “Nifedipine Retard or Labetelol”|
+|Endothelin receptor antagonists||Bosentan, Ambrisentan|ETA and ETB receptor blocker|Anaemia, teratogenecity||Pulmonary arterial hypertension|
+|Beta Blockers with Nitric Oxide vasodilatation||Bisoprolol, Nebivolol|Beta 1 block reduces heart rate and cardiac work load and NO causes vasodilatation|Bradycardia|Heart Block|Young hypertensives|
 </div>
