@@ -1,13 +1,12 @@
 ---
-title: "Family Medicine: Transforming the Dying Art of Listening in Clinical Practice."
+title: "Family Medicine: Transforming the Dying Art of Listening in Clinical Practice"
 authors:
   - name: Dr Prathamesh S Sawant
-    affiliation: "Co-Founder & Executive Director: AVEKSHA Home Based Primary Care
+    affiliation: "Co-Founder & Executive Director: AVEKSHA Home Based Primary Care,
     PCMH Restore Pvt Ltd"
 ---
 
-Being in our busy and buzzing clinical practice, many of us these days have lost the art of
-listening in everyday clinical decision making. I was reading up this morning on what is different in us (as Family Practitioners) listening to patients and some other doctors doing the same in their own settings. And came up across “Deeya Khan and her documentary - White Right: Meeting The Enemy” that talks about a story of a Muslim woman living in the UK, trolled by white supremacist to the point where police got involved because her life was at risk. They even asked her to stay away from open windows, that’s how bad it got.
+Being in our busy and buzzing clinical practice, many of us these days have lost the art of listening in everyday clinical decision making. I was reading up this morning on what is different in us (as Family Practitioners) listening to patients and some other doctors doing the same in their own settings. And came up across Deeya Khan and her documentary - *White Right: Meeting The Enemy* that talks about a story of a Muslim woman living in the UK, trolled by white supremacist to the point where police got involved because her life was at risk. They even asked her to stay away from open windows, that’s how bad it got.
 
 
 The way she responded was to travel to the United States to meet the white supremacist with her camera gear and gives them a safe space to feel heard (basically they all wanted her off the planet, but she wanted to hear them out). As the conversation goes ahead they feel heard and start trusting her and become friendly with her. The story continues where they are able to open their eyes or find solutions even in the extreme conditions and change themselves just by being heard.
