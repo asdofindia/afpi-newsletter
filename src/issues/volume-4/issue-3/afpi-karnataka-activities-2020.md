@@ -4,7 +4,7 @@ title: "AFPI Karnataka Activities - 2020"
 
 1. Conducted a webinar on “ Training of family physicians in Practice management during COVID” by invitation from the prestigious Rajiv Gandhi University Of Health Sciences at their campus on 27 th April. Four relevant topics were covered- a.  Role of GPs during COVID 19 pandemic and the related infodemic- By Dr Mohan Kubendra, teleconsultation and triaging of patients in a clinic- By Dr Roshni Jhanganguly,  Clinic management and well being of GPs during COVID- By Dr Swapna Bhaskar and PPEs for GP and role of GP in community prevention of COVID – By Dr Sowmya Vivek. The webinar was attended by a good number of GPs practicing all over Karnataka who immensely benefitted from it . The coveted university members also gave a very positive feedback of the program.  
 
-2. Afpi Karnataka members Dr Swapna Bhaskar and Dr Sowmya Vivek were the panelist and speakers for a webinar conducted by Family Physicians Association of India- Bangalore Chapter on the topic – “ Clinic management and use of PPEs for Family Physicians” – May 10 , 2020.
+2. AFPI Karnataka members Dr Swapna Bhaskar and Dr Sowmya Vivek were the panelist and speakers for a webinar conducted by Family Physicians Association of India- Bangalore Chapter on the topic – “ Clinic management and use of PPEs for Family Physicians” – May 10 , 2020.
 
 3. Conducted the first webinar on “Management of COVID patients by family physicians “ on 13 th August 2020 via zoom platform. The webinar was a huge success with participation from all over India. 
 
