@@ -1,7 +1,7 @@
 ---
 title: "Back Bencher: A view of life and continuing medical education from the back benches"
 authors:
-  - name: Dr Badakere Rao
+  - name: Dr B C Rao
     affiliation: Mentor, AFPI Karnataka
 ---
 

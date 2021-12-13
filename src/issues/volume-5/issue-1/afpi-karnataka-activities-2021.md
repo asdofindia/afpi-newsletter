@@ -29,7 +29,7 @@ title: "AFPI Karnataka Activities - 2021"
 ![](./afpi-karnataka-activities-2021-image-5.jpeg)
 ![](./afpi-karnataka-activities-2021-image-6.jpeg)
 
-10. The graduation ceremony of the second batch of Primary Health Care Leadership Fellowship by AFPI and Karuna Trust was conducted on 29 October at the Karuna Trust Premises. Five doctors obtained the fellowship this year and the coming year has an enrolment of 7 aspiring primary care physicians. Dr Sudarshan, Dr B C Rao, Dr Swapna Bhaskar, Dr RK Prasad, Dr Soumya Vivek, Dr Jyotika Gupta and Dr Akshay S Dinesh presided over the function. AFPI is looking to upscale the program by involving more faculty and continued training in broader aspects of primary care. 
+10. The graduation ceremony of the second batch of Primary Health Care Leadership Fellowship by AFPI and Karuna Trust was conducted on 29 October at the Karuna Trust Premises. Five doctors obtained the fellowship this year and the coming year has an enrolment of 7 aspiring primary care physicians. Dr Sudarshan, Dr B C Rao, Dr Swapna Bhaskar, Dr RK Prasad, Dr Soumya Vivek, Dr Jyotika Gupta, Dr Akshay S Dinesh, Dr Dwijavanthi Kumar (online), and Dr Swathi S B (online) presided over the function. AFPI is looking to upscale the program by involving more faculty and continued training in broader aspects of primary care. 
 
 
 ![](./afpi-karnataka-activities-2021-image-7.jpg)
